@@ -2,7 +2,6 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
-
 [![Build Status](https://leonardobononi.visualstudio.com/Parts%20Unlimited/_apis/build/status/leobononi.calculator?branchName=master)](https://leonardobononi.visualstudio.com/Parts%20Unlimited/_build/latest?definitionId=3&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
